@@ -1,0 +1,5 @@
+Student,74,34,23,5
+Foreigner,74,34,23,5
+Foreigner,67,32,26,6
+Employee,80,32,34,6
+Others,80,32,34,6
